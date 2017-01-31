@@ -1,0 +1,4 @@
+#!/bin/bash
+# This is suppose to be like pwd
+
+echo $PWD
