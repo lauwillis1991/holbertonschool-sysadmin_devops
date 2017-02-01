@@ -1,5 +1,0 @@
-#!/bin/bash
-
-# This is ls
-
-echo "$(ls)"
