@@ -1,0 +1,1 @@
+This is a readme for all the scripts I will be writing.
