@@ -1,0 +1,1 @@
+THis is the README for Shell, init files, variables and expansions. More to come
